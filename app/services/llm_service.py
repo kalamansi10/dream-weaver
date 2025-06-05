@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm_instance = None
-MODEL_PATH = os.path.join(os.getcwd(), os.getenv('MODEL_PATH'))
+MODEL_PATH = os.path.join(os.getcwd(), os.getenv('LLM_MODEL_PATH'))
 # You might want to make MODEL_PATH configurable via .env or a config file
 
 def load_local_llm():
