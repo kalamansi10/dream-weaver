@@ -3,3 +3,10 @@ python-dotenv
 llama-cpp-python
 langchain-community
 langchain-core
+torch
+torchvision
+diffusers
+transformers
+accelerate
+Pillow
+elevenlabs

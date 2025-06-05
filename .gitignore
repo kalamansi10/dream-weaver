@@ -6,4 +6,6 @@ __pycache__/
 *.temp
 *.tmp
 .DS_Store
-models/
+models_llm/
+test.ipynb
+app/static/generated_images/
