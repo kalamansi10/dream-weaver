@@ -1,0 +1,5 @@
+fastapi[standard]
+python-dotenv
+llama-cpp-python
+langchain-community
+langchain-core
